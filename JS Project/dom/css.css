@@ -1,0 +1,27 @@
+/* #heading_id{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.heading_class{
+    
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+} */
+
+.box{
+    height:100px;
+    width: 100px;
+    border:5px solid black;
+    margin: 10px;
+    background-color: aqua;
+
+}
+.content{
+    color:red;
+
+}
+.newclass{
+    background-color: aqua;
+}
